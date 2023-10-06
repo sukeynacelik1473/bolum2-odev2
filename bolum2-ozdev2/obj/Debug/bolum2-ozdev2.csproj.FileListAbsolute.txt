@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bolum2-ozdev2\bolum2-ozdev2\bin\Debug\bolum2-ozdev2.exe.config
+C:\Users\User\source\repos\bolum2-ozdev2\bolum2-ozdev2\bin\Debug\bolum2-ozdev2.exe
+C:\Users\User\source\repos\bolum2-ozdev2\bolum2-ozdev2\bin\Debug\bolum2-ozdev2.pdb
+C:\Users\User\source\repos\bolum2-ozdev2\bolum2-ozdev2\obj\Debug\bolum2-ozdev2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bolum2-ozdev2\bolum2-ozdev2\obj\Debug\bolum2-ozdev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bolum2-ozdev2\bolum2-ozdev2\obj\Debug\bolum2_ozdev2.Form1.resources
+C:\Users\User\source\repos\bolum2-ozdev2\bolum2-ozdev2\obj\Debug\bolum2_ozdev2.Properties.Resources.resources
+C:\Users\User\source\repos\bolum2-ozdev2\bolum2-ozdev2\obj\Debug\bolum2-ozdev2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bolum2-ozdev2\bolum2-ozdev2\obj\Debug\bolum2-ozdev2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bolum2-ozdev2\bolum2-ozdev2\obj\Debug\bolum2-ozdev2.exe
+C:\Users\User\source\repos\bolum2-ozdev2\bolum2-ozdev2\obj\Debug\bolum2-ozdev2.pdb
